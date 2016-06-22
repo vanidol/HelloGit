@@ -2,7 +2,7 @@ with open("invitees.txt", "r") as ins:
 ...     source_lines = []
 ...     for line in ins:
 ...         source_lines.append(line)
-
+HOLY SHIT THIS IS BROKEN 
 ...for source_line in source_lines:
 ...    if ";" in source_line:
 ...       filtered_lines.append(source_line)
